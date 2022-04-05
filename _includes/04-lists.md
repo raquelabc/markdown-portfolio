@@ -1,3 +1,3 @@
-*Viajar
-*Japones
-*Naturaleza
+* Viajar
+* Japones
+* Naturaleza
